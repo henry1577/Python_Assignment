@@ -1,0 +1,6 @@
+OrderID, Username, EventID, EventName, EventType, EventVenue, EventDate, EventTime, EventPrice, Quantity, Total, 
+2022-05-24 10:36:54.935865, achuachu, E23, Classical Concert, Join, APU - Auditorium 1, Every Saturday, 7:00pm - 8:00pm, 13, 1, 13, 
+2022-05-26 11:35:55.230394, booleanking, E22, Company Trip, Join, North Pole, 2069-06-24, 8:00pm - 12:00pm, 2000, 1, 2000, 
+2022-05-25 12:12:12.121212, jettama, E26, Running Marathon, Join, APU - Auditorium 7, Every Thursday, 7:00am - 9:00am, 10, 1, 10, 
+2022-05-27 13:14:15.151617, haozhetama, E27, Cycling, Join, Balik Pulau, Penang, Every Sunday, 7:00am - 9:00am, 10, 1, 10, 
+2022-05-28 09:23:34.120938, milotama, E25, Jazz Concert, Join, APU - Auditorium 4, Every Friday, 7:00pm - 9:00pm, 10, 1, 10, 

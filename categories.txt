@@ -1,0 +1,8 @@
+CategoryID, CategoryName, 
+C1, Babies, 
+C2, Children & Teens, 
+C3, Adults, 
+C4, Celebrations, 
+C5, Company, 
+C6, Concerts, 
+C7, Sports, 

@@ -1,0 +1,6 @@
+CustomerUsername, CustomerName, CustomerContact, CustomerEmail, 
+achuachu, Achreen Kaur, 0123701928, achreen@gmail.com, 
+booleanking, Alex Chiew, 0163457432, chiew@gmail.com, 
+jettama, Jet, 0112334123, jet@gmail.com, 
+haozhetama, Hao Zhe, 0167829384, haozhe@gmail.com, 
+milotama, Milo Jet, 019456283929, milo@gmail.com, 
